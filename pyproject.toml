@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "llama-index-starter-openai"
+version = "0.1.0"
+description = "Lllama Index first example"
+authors = ["Cristhian Cuenca <ccuenca24@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+[tool.poetry.group.dev.dependencies]
+llama-index = "^0.10.39"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

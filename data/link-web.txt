@@ -1,0 +1,74 @@
+Hola a tod@s!
+
+En la actualidad, el mundo está experimentando una rápida evolución en el campo de la Inteligencia Artificial (IA) y los Modelos de Lenguaje de Gran Escala (LLMs). Estas tecnologías están transformando diversas industrias, desde la atención médica hasta la industria automotriz, y están impactando significativamente la forma en que vivimos y trabajamos. Aprender sobre Inteligencia Artificial y LLMs no solo es relevante, sino crucial para adaptarse a este cambiante panorama tecnológico y aprovechar las oportunidades que ofrece. En este contexto, acceder a una variedad de recursos de aprendizaje de calidad se vuelve fundamental para mantenerse actualizado y competente en estos campos en constante evolución.
+
+Como sabemos, en Internet existe una cantidad inmensa de cursos, tutoriales, videos, artículos, y otros recursos para aprender sobre Inteligencia Artificial, NLP (Natural Language Processing) y LLMs (Large Language Models). Durante el último año, he trabajado en mantener una base de datos actualizada y depurada con los que considero los mejores materiales para estudiar y revisar, basándome en mi experiencia y en diversas recomendaciones.
+
+A continuación, comparto con ustedes una recopilación de recursos que incluyen cursos, libros, tutoriales, canales de YouTube, plataformas y más:
+
+Aclaraciones
+
+Algunos recursos son gratuitos, otros requieren suscripción, y algunos se pueden auditar. Es decir, hay opciones para todos los gustos.
+No recibo patrocinio de ninguna de las marcas de plataformas, cursos, libros, etc.
+Especializaciones
+[DeepLearning.AI] Machine Learning Specialization
+[DeepLearning.AI] Deep Learning Specialization
+[DeepLearning.AI] Natural Language Processing Specialization
+[Platzi] Escuela Data Science e Inteligencia Artificial
+
+
+Libros
+
+Transformers for Natural Language Processing and Computer Vision: Explore Generative AI and Large Language Models with Hugging Face, ChatGPT, GPT-4V, and DALL-E 3 (3rd Edition)
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems (3rd Edition)
+Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python
+LangChain AI Handbook
+Google Prompting Guide 101
+
+
+Fundamentos NLP y LLMs 
+
+[Andrej Karpathy] Intro to Large Language Models
+[Jeremy Howard] A Hackers’ Guide to Language Models
+[Hugging Face] NLP Course
+[Cohere] LLM University
+[The Full Stack] LLM Bootcamp — Spring 2023
+[Stanford] Natural Language Understanding | Sprint 2023
+[Stanford] Transformers United
+
+DeepLearning.AI
+Generative AI for Everyone
+Generative AI with Large Language Models
+Vector Databases: from Embeddings to Applications
+Preprocessing Unstructured Data for LLM Applications
+Large Language Models with Semantic Search
+Building Agentic RAG with LlamaIndex
+Building and Evaluating Advanced RAG Applications
+Understanding and Applying Text Embeddings with Vertex AI
+Finetuning Large Language Models
+Automated Testing for LLMOps
+
+
+Google
+
+Introduction to Generative AI Learning Path
+Generative AI for Developers Learning Path
+Gemini Cookbook
+
+Microsoft
+Generative AI for Beginners
+
+
+Canales YouTube
+Underfitted
+Carlos Alarcón — AI
+Greg Kamradt (Data Indy)
+James Briggs
+Jay Alammar
+Decoder
+Data Science Basics
+
+
+Obviamente, se me escapan muchos recursos interesantes, pero espero que los suministrados les sean de gran ayuda en su aprendizaje de IA y LLMs. Si tienen otros recursos que quieran recomendar, no duden en dejarlos en los comentarios.
+
+Keep exploring!
